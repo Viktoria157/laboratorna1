@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "laboratorna1", "laboratorna1\laboratorna1.vcxproj", "{38A0BDE4-980C-4D3A-8C7B-71DAA70B224F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38A0BDE4-980C-4D3A-8C7B-71DAA70B224F}.Debug|x64.ActiveCfg = Debug|x64
+		{38A0BDE4-980C-4D3A-8C7B-71DAA70B224F}.Debug|x64.Build.0 = Debug|x64
+		{38A0BDE4-980C-4D3A-8C7B-71DAA70B224F}.Debug|x86.ActiveCfg = Debug|Win32
+		{38A0BDE4-980C-4D3A-8C7B-71DAA70B224F}.Debug|x86.Build.0 = Debug|Win32
+		{38A0BDE4-980C-4D3A-8C7B-71DAA70B224F}.Release|x64.ActiveCfg = Release|x64
+		{38A0BDE4-980C-4D3A-8C7B-71DAA70B224F}.Release|x64.Build.0 = Release|x64
+		{38A0BDE4-980C-4D3A-8C7B-71DAA70B224F}.Release|x86.ActiveCfg = Release|Win32
+		{38A0BDE4-980C-4D3A-8C7B-71DAA70B224F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C1EC4C-58F9-4C6E-A1C2-A567357A33DE}
+	EndGlobalSection
+EndGlobal
